@@ -1,38 +1,38 @@
 const todoData = [
   {
-    id: 1,
-    activity: "Study programming",
-    done: false
+    id:1,
+    activity:"Study programming",
+    done:false
   },
   {
-    id: 2,
-    activity: "Gym",
-    done: false
+    id:2,
+    activity:"Gym",
+    done:false
   },
   {
-    id: 3,
-    activity: "Tennis",
-    done: false
+    id:3,
+    activity:"Tennis",
+    done:false
   },
   {
-    id: 4,
-    activity: "Eat healthy",
-    done: false
+    id:4,
+    activity:"Eat healthy",
+    done:false
   },
   {
-    id: 5,
-    activity: "Read 10 pages of a book",
-    done: false
+    id:5,
+    activity:"Read 10 pages of a book",
+    done:false
   },
   {
-    id: 6,
-    activity: "Learn a new technology",
-    done: false
+    id:6,
+    activity:"Learn a new technology",
+    done:false
   },
   {
-    id: 7,
-    activity: "Talk with Bruna",
-    done: false
+    id:7,
+    activity:"Talk with Bruna",
+    done:false
   }
 ];
 
